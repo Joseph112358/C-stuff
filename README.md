@@ -1,1 +1,1 @@
-# C-stuff
+# C++ stuff
